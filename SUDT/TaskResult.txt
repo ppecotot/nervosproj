@@ -1,0 +1,14 @@
+1. A link to the Layer 1 address you funded on the Testnet Explorer:
+https://explorer.nervos.org/aggron/address/ckt1qyqf9j0qahkzdduxqumvcjp5kqazeuwpevjshnadsd
+
+2. A screenshot of the console output immediately after using sudt-cli to create your SUDT tokens on Layer 1.
+sudt.png
+
+3. A link to the transaction ID created by sudt-cli on the Testnet Explorer.
+https://explorer.nervos.org/aggron/transaction/0x0ad1a7abead5871f5c734a632301d301c5b37249375182ec7900df8263b509d0
+
+4. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
+accountcli.png
+
+5.The SUDT ID from the console output after executing the deposit script (in text format).
+SUID ID: 2249
