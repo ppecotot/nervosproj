@@ -1,0 +1,11 @@
+1. A screenshot of the console output immediately after deploying smart contract.
+deployedero20proxycontract.png
+
+2. The address of the ERC20 Proxy Contract you deployed (in text format).
+0xFC57D26D69E68Bc4Bbd2100c9e94ee09196c97fD
+
+3. A screenshot of the console output immediately after checking your SUDT balance.
+checksudtbalance.png
+
+4. The Ethereum address that was checked (in text format).
+0xad6e78649B52999ce20C9303452D1bfc2c1353C3
